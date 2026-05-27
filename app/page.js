@@ -113,7 +113,6 @@ function Hero() {
     { text: 'print("Hello, World!")', top: "18%", left: "3%" },
     { text: "const future = await learn()", top: "28%", right: "4%" },
     { text: "for idea in your_brain:", top: "55%", left: "2%" },
-    { text: "function buildDreams() {", top: "68%", right: "3%" },
     { text: "<h1>I built this!</h1>", top: "42%", left: "5%" },
     { text: "git commit -m 'changed everything'", top: "78%", right: "5%" },
   ];
