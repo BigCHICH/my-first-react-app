@@ -1,6 +1,6 @@
 // 🎓 ByteBuilders — School Coding Club Website
 // Upgraded: editorial typography, refined palette, fluid animations
-"use client";
+
 import { useState, useEffect, useRef } from "react";
 
 // ─────────────────────────────────────────────
